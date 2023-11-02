@@ -1,3 +1,5 @@
+#sales profit
+
 buying = float(input("Enter initial cost: "))
 selling = float(input("Enter selling price: "))
 units = float(input("Enter no of units sold: "))
