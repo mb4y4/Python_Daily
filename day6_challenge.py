@@ -8,11 +8,13 @@
 # ]
 
 # # Create the 'emails.txt' file and populate it with sample email addresses
+
 # with open('ourmails.txt', 'w') as emails_file:
 #     for email in sample_emails:
 #         emails_file.write(email + '\n')
 
 # #dispay written results on terminal
+
 # with open('ourmails.txt', 'r') as emails:
 #     results = emails.read()
     
